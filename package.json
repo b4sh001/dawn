@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "shopify theme dev -s joshdev101",
+    "build": "vite build --minify",
+    "watch": "vite build --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.30",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9"
+  }
+}
